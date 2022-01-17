@@ -39,3 +39,11 @@ git commit -m "First Commit"
 to set the identity for locap repo
 
 git config --global user.email "ranger96pro@hotmail.com"
+
+
+---------------------------------------------------------
+
+update commit
+
+git commit -m "Updated git cmds"
+
