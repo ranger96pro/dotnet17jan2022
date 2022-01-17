@@ -1,0 +1,41 @@
+to get git ver in the system
+
+git --version 
+
+-----------------------------------------
+
+to create local repo 
+
+git init
+
+------------------------------------------
+
+to check status of the local repo
+
+git status 
+
+
+-------------------------------------------
+
+to add file to local repo for tracking 
+
+git add <filename>
+
+----------------------------------------------
+
+to add all the files in the current folder for tracking
+
+git add -A
+
+------------------------------------------------------
+
+to commit file to the local file
+
+git commit -m "First Commit"
+
+--------------------------------------------------------
+
+
+to set the identity for locap repo
+
+git config --global user.email "ranger96pro@hotmail.com"
