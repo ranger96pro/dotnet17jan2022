@@ -11,7 +11,7 @@ namespace Day4Assignment
         static void Main(string[] args)
         {
             solution s = new solution();
-            s.qn12(19);
+            s.qn12(7);
             Console.ReadKey();
         }
     }

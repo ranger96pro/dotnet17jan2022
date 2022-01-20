@@ -185,7 +185,7 @@ namespace Day4Assignment
             {
                 curNum = checkHappy(curNum);
             }
-            if (curNum == 1)
+            if (curNum == 1 || curNum == 7)
             {
                 Console.WriteLine(num1 +" is a happy number.");
             }
