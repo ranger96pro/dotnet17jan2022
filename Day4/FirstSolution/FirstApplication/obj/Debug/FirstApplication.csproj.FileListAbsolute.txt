@@ -1,0 +1,7 @@
+D:\c# net trg prog\Day4\FirstSolution\FirstApplication\bin\Debug\FirstApplication.exe.config
+D:\c# net trg prog\Day4\FirstSolution\FirstApplication\bin\Debug\FirstApplication.exe
+D:\c# net trg prog\Day4\FirstSolution\FirstApplication\bin\Debug\FirstApplication.pdb
+D:\c# net trg prog\Day4\FirstSolution\FirstApplication\obj\Debug\FirstApplication.csprojAssemblyReference.cache
+D:\c# net trg prog\Day4\FirstSolution\FirstApplication\obj\Debug\FirstApplication.csproj.CoreCompileInputs.cache
+D:\c# net trg prog\Day4\FirstSolution\FirstApplication\obj\Debug\FirstApplication.exe
+D:\c# net trg prog\Day4\FirstSolution\FirstApplication\obj\Debug\FirstApplication.pdb

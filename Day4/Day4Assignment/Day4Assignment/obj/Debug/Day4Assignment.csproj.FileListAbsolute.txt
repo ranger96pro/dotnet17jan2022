@@ -1,0 +1,7 @@
+D:\c# net trg prog\Day4\Day4Assignment\Day4Assignment\bin\Debug\Day4Assignment.exe.config
+D:\c# net trg prog\Day4\Day4Assignment\Day4Assignment\bin\Debug\Day4Assignment.exe
+D:\c# net trg prog\Day4\Day4Assignment\Day4Assignment\bin\Debug\Day4Assignment.pdb
+D:\c# net trg prog\Day4\Day4Assignment\Day4Assignment\obj\Debug\Day4Assignment.csprojAssemblyReference.cache
+D:\c# net trg prog\Day4\Day4Assignment\Day4Assignment\obj\Debug\Day4Assignment.csproj.CoreCompileInputs.cache
+D:\c# net trg prog\Day4\Day4Assignment\Day4Assignment\obj\Debug\Day4Assignment.exe
+D:\c# net trg prog\Day4\Day4Assignment\Day4Assignment\obj\Debug\Day4Assignment.pdb

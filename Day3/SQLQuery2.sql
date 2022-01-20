@@ -183,7 +183,7 @@ exec proc_qn14totaltaxpayable 100
 
 --qn 15
 create function funcQn15(@basic int,@hra int,@da int)
-return @sumOftheThree Table(totalSum int)
+returns @sumOftheThree Table(totalSum int)
 as
 begin
 	Declare
@@ -193,3 +193,6 @@ begin
 	return
 end
 
+select * from funcQn15(1000,100,10)
+
+--qn 16
