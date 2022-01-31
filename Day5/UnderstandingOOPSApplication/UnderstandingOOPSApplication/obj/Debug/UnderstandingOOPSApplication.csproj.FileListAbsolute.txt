@@ -1,0 +1,7 @@
+D:\c# net trg prog\Day5\UnderstandingOOPSApplication\UnderstandingOOPSApplication\bin\Debug\UnderstandingOOPSApplication.exe.config
+D:\c# net trg prog\Day5\UnderstandingOOPSApplication\UnderstandingOOPSApplication\bin\Debug\UnderstandingOOPSApplication.exe
+D:\c# net trg prog\Day5\UnderstandingOOPSApplication\UnderstandingOOPSApplication\bin\Debug\UnderstandingOOPSApplication.pdb
+D:\c# net trg prog\Day5\UnderstandingOOPSApplication\UnderstandingOOPSApplication\obj\Debug\UnderstandingOOPSApplication.csprojAssemblyReference.cache
+D:\c# net trg prog\Day5\UnderstandingOOPSApplication\UnderstandingOOPSApplication\obj\Debug\UnderstandingOOPSApplication.csproj.CoreCompileInputs.cache
+D:\c# net trg prog\Day5\UnderstandingOOPSApplication\UnderstandingOOPSApplication\obj\Debug\UnderstandingOOPSApplication.exe
+D:\c# net trg prog\Day5\UnderstandingOOPSApplication\UnderstandingOOPSApplication\obj\Debug\UnderstandingOOPSApplication.pdb

@@ -1,0 +1,7 @@
+D:\c# net trg prog\Day6\BinaryGap\BinaryGap\bin\Debug\BinaryGap.exe.config
+D:\c# net trg prog\Day6\BinaryGap\BinaryGap\bin\Debug\BinaryGap.exe
+D:\c# net trg prog\Day6\BinaryGap\BinaryGap\bin\Debug\BinaryGap.pdb
+D:\c# net trg prog\Day6\BinaryGap\BinaryGap\obj\Debug\BinaryGap.csprojAssemblyReference.cache
+D:\c# net trg prog\Day6\BinaryGap\BinaryGap\obj\Debug\BinaryGap.csproj.CoreCompileInputs.cache
+D:\c# net trg prog\Day6\BinaryGap\BinaryGap\obj\Debug\BinaryGap.exe
+D:\c# net trg prog\Day6\BinaryGap\BinaryGap\obj\Debug\BinaryGap.pdb

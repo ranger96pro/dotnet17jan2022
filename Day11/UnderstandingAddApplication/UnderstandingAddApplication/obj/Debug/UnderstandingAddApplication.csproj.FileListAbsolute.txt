@@ -1,0 +1,7 @@
+D:\c# net trg prog\Day10\UnderstandingAddApplication\UnderstandingAddApplication\bin\Debug\UnderstandingAddApplication.exe.config
+D:\c# net trg prog\Day10\UnderstandingAddApplication\UnderstandingAddApplication\bin\Debug\UnderstandingAddApplication.exe
+D:\c# net trg prog\Day10\UnderstandingAddApplication\UnderstandingAddApplication\bin\Debug\UnderstandingAddApplication.pdb
+D:\c# net trg prog\Day10\UnderstandingAddApplication\UnderstandingAddApplication\obj\Debug\UnderstandingAddApplication.csprojAssemblyReference.cache
+D:\c# net trg prog\Day10\UnderstandingAddApplication\UnderstandingAddApplication\obj\Debug\UnderstandingAddApplication.csproj.CoreCompileInputs.cache
+D:\c# net trg prog\Day10\UnderstandingAddApplication\UnderstandingAddApplication\obj\Debug\UnderstandingAddApplication.exe
+D:\c# net trg prog\Day10\UnderstandingAddApplication\UnderstandingAddApplication\obj\Debug\UnderstandingAddApplication.pdb

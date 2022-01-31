@@ -1,0 +1,7 @@
+D:\c# net trg prog\Day5\ClinicManagement\Clinic\bin\Debug\Clinic.exe.config
+D:\c# net trg prog\Day5\ClinicManagement\Clinic\bin\Debug\Clinic.exe
+D:\c# net trg prog\Day5\ClinicManagement\Clinic\bin\Debug\Clinic.pdb
+D:\c# net trg prog\Day5\ClinicManagement\Clinic\obj\Debug\Clinic.csprojAssemblyReference.cache
+D:\c# net trg prog\Day5\ClinicManagement\Clinic\obj\Debug\Clinic.csproj.CoreCompileInputs.cache
+D:\c# net trg prog\Day5\ClinicManagement\Clinic\obj\Debug\Clinic.exe
+D:\c# net trg prog\Day5\ClinicManagement\Clinic\obj\Debug\Clinic.pdb

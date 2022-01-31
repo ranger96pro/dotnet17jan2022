@@ -1,0 +1,7 @@
+D:\c# net trg prog\Day5\UnderstandingInterface\UnderstandingInterface\obj\Debug\UnderstandingInterface.csprojAssemblyReference.cache
+D:\c# net trg prog\Day5\UnderstandingInterface\UnderstandingInterface\obj\Debug\UnderstandingInterface.csproj.CoreCompileInputs.cache
+D:\c# net trg prog\Day5\UnderstandingInterface\UnderstandingInterface\bin\Debug\UnderstandingInterface.exe.config
+D:\c# net trg prog\Day5\UnderstandingInterface\UnderstandingInterface\bin\Debug\UnderstandingInterface.exe
+D:\c# net trg prog\Day5\UnderstandingInterface\UnderstandingInterface\bin\Debug\UnderstandingInterface.pdb
+D:\c# net trg prog\Day5\UnderstandingInterface\UnderstandingInterface\obj\Debug\UnderstandingInterface.exe
+D:\c# net trg prog\Day5\UnderstandingInterface\UnderstandingInterface\obj\Debug\UnderstandingInterface.pdb

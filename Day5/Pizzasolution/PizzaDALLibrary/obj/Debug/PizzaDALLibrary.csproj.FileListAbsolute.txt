@@ -1,0 +1,2 @@
+D:\c# net trg prog\Day5\Pizzasolution\PizzaDALLibrary\obj\Debug\PizzaDALLibrary.csprojAssemblyReference.cache
+D:\c# net trg prog\Day5\Pizzasolution\PizzaDALLibrary\obj\Debug\PizzaDALLibrary.csproj.CoreCompileInputs.cache

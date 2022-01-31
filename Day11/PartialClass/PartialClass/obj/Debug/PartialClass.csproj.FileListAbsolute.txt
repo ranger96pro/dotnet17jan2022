@@ -1,0 +1,7 @@
+D:\c# net trg prog\Day11\PartialClass\PartialClass\bin\Debug\PartialClass.exe.config
+D:\c# net trg prog\Day11\PartialClass\PartialClass\bin\Debug\PartialClass.exe
+D:\c# net trg prog\Day11\PartialClass\PartialClass\bin\Debug\PartialClass.pdb
+D:\c# net trg prog\Day11\PartialClass\PartialClass\obj\Debug\PartialClass.csprojAssemblyReference.cache
+D:\c# net trg prog\Day11\PartialClass\PartialClass\obj\Debug\PartialClass.csproj.CoreCompileInputs.cache
+D:\c# net trg prog\Day11\PartialClass\PartialClass\obj\Debug\PartialClass.exe
+D:\c# net trg prog\Day11\PartialClass\PartialClass\obj\Debug\PartialClass.pdb

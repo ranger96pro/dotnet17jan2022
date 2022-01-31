@@ -1,0 +1,7 @@
+D:\c# net trg prog\Day8\UndertandingLINQApp\UndertandingLINQApp\bin\Debug\UndertandingLINQApp.exe.config
+D:\c# net trg prog\Day8\UndertandingLINQApp\UndertandingLINQApp\bin\Debug\UndertandingLINQApp.exe
+D:\c# net trg prog\Day8\UndertandingLINQApp\UndertandingLINQApp\bin\Debug\UndertandingLINQApp.pdb
+D:\c# net trg prog\Day8\UndertandingLINQApp\UndertandingLINQApp\obj\Debug\UndertandingLINQApp.csprojAssemblyReference.cache
+D:\c# net trg prog\Day8\UndertandingLINQApp\UndertandingLINQApp\obj\Debug\UndertandingLINQApp.csproj.CoreCompileInputs.cache
+D:\c# net trg prog\Day8\UndertandingLINQApp\UndertandingLINQApp\obj\Debug\UndertandingLINQApp.exe
+D:\c# net trg prog\Day8\UndertandingLINQApp\UndertandingLINQApp\obj\Debug\UndertandingLINQApp.pdb
